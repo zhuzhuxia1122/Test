@@ -12,6 +12,9 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Test;
+using Vison;
+
+
 namespace TestWinform
 {
     public partial class Test_Classify : Form

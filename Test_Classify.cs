@@ -12,7 +12,9 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Test;
-using Vison;
+using Vision_mode;
+
+
 
 
 namespace TestWinform
@@ -62,7 +64,7 @@ namespace TestWinform
         /// <param name="e"></param>
         private void uiButton_Classify_Click(object sender, EventArgs e)
         {
-            Vison vison = new Vison();
+            Vision vison = new Vision_mode();
             HObject m_imgout = null;
             string NewstaticPath = g_strStaticPath.Replace ("\\", "/");
             HTuple  hv_ImageFiles = null;

@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using TestWinform;
 
-namespace Vison
+namespace Test
 
 {
-    internal class Vison 
+    public class vison1
     {
 
 

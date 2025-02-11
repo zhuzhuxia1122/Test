@@ -1,0 +1,36 @@
+E:\A\2025-2-8\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\A\2025-2-8\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\A\2025-2-8\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\A\2025-2-8\WindowsFormsApp1\bin\Debug\halcondotnet.dll
+E:\A\2025-2-8\WindowsFormsApp1\bin\Debug\SunnyUI.dll
+E:\A\2025-2-8\WindowsFormsApp1\bin\Debug\SunnyUI.Common.dll
+E:\A\2025-2-8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\A\2025-2-8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\A\2025-2-8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\A\2025-2-8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\A\2025-2-8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\A\2025-2-8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\A\2025-2-8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\A\2025-2-8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\A\2025-2-8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\A\2025-2-8\Test\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\A\2025-2-8\Test\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\A\2025-2-8\Test\obj\Debug\WindowsFormsApp1.Test1.resources
+E:\A\2025-2-8\Test\obj\Debug\Test1.Properties.Resources.resources
+E:\A\2025-2-8\Test\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\A\2025-2-8\Test\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\A\2025-2-8\Test - 副本\bin\Debug\Test1.exe.config
+E:\A\2025-2-8\Test - 副本\bin\Debug\Test1.exe
+E:\A\2025-2-8\Test - 副本\bin\Debug\Test1.pdb
+E:\A\2025-2-8\Test - 副本\bin\Debug\halcondotnet.dll
+E:\A\2025-2-8\Test - 副本\bin\Debug\SunnyUI.Common.dll
+E:\A\2025-2-8\Test - 副本\bin\Debug\SunnyUI.dll
+E:\A\2025-2-8\Test - 副本\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\A\2025-2-8\Test - 副本\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\A\2025-2-8\Test - 副本\obj\Debug\WindowsFormsApp1.Test1.resources
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test1.Properties.Resources.resources
+E:\A\2025-2-8\Test - 副本\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\A\2025-2-8\Test - 副本\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\A\2025-2-8\Test - 副本\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test1.exe
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test1.pdb

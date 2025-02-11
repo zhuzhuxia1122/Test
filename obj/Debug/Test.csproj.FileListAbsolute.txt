@@ -1,0 +1,30 @@
+E:\A\2025-2-8\Test - 副本\bin\Debug\Test.exe.config
+E:\A\2025-2-8\Test - 副本\bin\Debug\Test.exe
+E:\A\2025-2-8\Test - 副本\bin\Debug\Test.pdb
+E:\A\2025-2-8\Test - 副本\bin\Debug\halcondotnet.dll
+E:\A\2025-2-8\Test - 副本\bin\Debug\SunnyUI.Common.dll
+E:\A\2025-2-8\Test - 副本\bin\Debug\SunnyUI.dll
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+E:\A\2025-2-8\Test - 副本\obj\Debug\WindowsFormsApp1.Test_Classify.resources
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test.Properties.Resources.resources
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test.csproj.GenerateResource.cache
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test.csproj.CopyComplete
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test.exe
+E:\A\2025-2-8\Test - 副本\obj\Debug\Test.pdb
+E:\A\2025-2-8\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+E:\A\2025-2-8\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+E:\A\2025-2-8\Test\obj\Debug\Test.Properties.Resources.resources
+E:\A\2025-2-8\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\A\2025-2-8\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\A\2025-2-8\Test\obj\Debug\Test.exe
+E:\A\2025-2-8\Test\obj\Debug\Test.pdb
+E:\A\2025-2-8\Test\bin\Debug\Test.exe.config
+E:\A\2025-2-8\Test\bin\Debug\Test.exe
+E:\A\2025-2-8\Test\bin\Debug\Test.pdb
+E:\A\2025-2-8\Test\bin\Debug\halcondotnet.dll
+E:\A\2025-2-8\Test\bin\Debug\SunnyUI.Common.dll
+E:\A\2025-2-8\Test\bin\Debug\SunnyUI.dll
+E:\A\2025-2-8\Test\obj\Debug\TestWinform.Test_Classify.resources
+E:\A\2025-2-8\Test\obj\Debug\Test.csproj.CopyComplete

@@ -11,8 +11,9 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Test;
+using Vison1;
 using Vision_mode;
+
 
 
 
@@ -64,7 +65,9 @@ namespace TestWinform
         /// <param name="e"></param>
         private void uiButton_Classify_Click(object sender, EventArgs e)
         {
-            Vision vison = new Vision_mode();
+            Vision vison = new Vision();
+
+            Vision1 vision1  =  new Vision1();
             HObject m_imgout = null;
             string NewstaticPath = g_strStaticPath.Replace ("\\", "/");
             HTuple  hv_ImageFiles = null;
@@ -77,7 +80,7 @@ namespace TestWinform
             if ((int)(hv_ImageFiles.TupleLength()-1)>= g_iIndex)
             {
                 myAction.Invoke(g_strStaticPath, g_iIndex, out m_imgout , out g_dStaticType);
-                vison.HobjectToHimage(m_imgout);
+                vision1.HobjectToHimage(m_imgout);
                 TextBox_Type.Text = Convert.ToString(g_dStaticType);
                 g_iIndex++;
             }
@@ -86,7 +89,7 @@ namespace TestWinform
                 MessageBox.Show("已经到最后一张了");
                 g_iIndex--;
                 myAction.Invoke(g_strStaticPath, g_iIndex, out m_imgout, out g_dStaticType);
-                vison.HobjectToHimage(m_imgout);
+                vision1.HobjectToHimage(m_imgout);
                 TextBox_Type.Text = Convert.ToString(g_dStaticType);
             }
         }

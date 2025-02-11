@@ -13,3 +13,5 @@ E:\A\2025-2-10\Test\obj\Release\Test.csproj.SuggestedBindingRedirects.cache
 E:\A\2025-2-10\Test\obj\Release\Test.Properties.Resources.resources
 E:\A\2025-2-10\Test\obj\Release\Test.exe
 E:\A\2025-2-10\Test\obj\Release\Test.pdb
+E:\A\2025-2-10\Test\bin\Release\Vision_mode.pdb
+E:\A\2025-2-10\Test\bin\Release\Vision_mode.dll

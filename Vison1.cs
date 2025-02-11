@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using TestWinform;
 
-namespace Test
+namespace Vison1
 
 {
-    public class vison1
+    public class Vision1
     {
 
-
+        
         /// <summary>
         /// 显示图片
         /// </summary>

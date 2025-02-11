@@ -62,13 +62,8 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="Vision, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\Vision.dll</HintPath>
-    </Reference>
-    <Reference Include="Vision_mode, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Release\Vision_mode.dll</HintPath>
+    <Reference Include="Vision_mode">
+      <HintPath>bin\Debug\Vision_mode.dll</HintPath>
     </Reference>
     <Reference Include="WindowsBase" />
   </ItemGroup>
